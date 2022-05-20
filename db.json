@@ -1,0 +1,40 @@
+{
+  "laptop": [
+    {
+      "id": 1,
+      "model": "MK5420PPO",
+      "make_year": 2021,
+      "operating_system": "IOS",
+      "screen_height":"22",
+      "screen_width":"10",
+      "price":"2000"
+    },
+    {
+      "id": 2,
+      "model": "MK5420P8K9O",
+      "make_year": 2022,
+      "operating_system": "sebastian@codingthesmartway.com",
+      "screen_height":"22",
+      "screen_width":"10",
+      "price":"2000"
+    },
+    {
+      "id": 3,
+      "model": "MK54520PO",
+      "make_year": 2021,
+      "operating_system": "linux",
+      "screen_height":"42",
+      "screen_width":"15",
+      "price":"12000"
+    },
+    {
+      "id": 4,
+      "model": "MK56420PO",
+      "make_year": 2020,
+      "operating_system": "window",
+      "screen_height":"32",
+      "screen_width":"10",
+      "price":"20000"
+    }
+  ]
+}
